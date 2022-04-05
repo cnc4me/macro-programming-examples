@@ -22,6 +22,7 @@ N30
 #1=[#26+#18]
 
 (PROBE_ON)
+G65 P9832
 
 ( APPROACH PART )
 G65 P9810 Z[#1 + 1.] M1.
